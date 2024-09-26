@@ -40,12 +40,12 @@ Next we start exploring the settings screen ==SettingsScreen==, and we see a str
 ![Assets/8.jpg](Assets/8.png)
 Examining ==KonamiCodeBox==, we see that the implementation of Konami code checking is done by swipes and taps, as a result, in order to understand what sequence of actions should be performed, we need to dig further into enum class ==Gesture==
 ![Assets/9.jpg](Assets/9.png)
-![Assets/10.jpg](10.png)
+![Assets/10.jpg](Assets/10.png)
 To find the sequence we have to find all the uses of the class ==Gesture==, and we see a list that specifies the sequence of action swipes: left, right, left, right, top, them, tap, tap, tap.
-![Assets/11.jpg](11.png)
+![Assets/11.jpg](Assets/11.png)
 We enter this sequence of gestures on the settings screen (may not work the first time)
 And in the end you'll see this field 
-![Assets/12.jpg|300](12.jpg)
+![Assets/12.jpg|300](Assets/12.jpg)
 And the flag is this 
 ```
 kpkCTF{$ch3dule_w@s_t3ribb1e}
