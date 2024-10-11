@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f81b3d78778c77d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a23496af3ec709d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gradius on lesson (WRITE-UP) RU.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7f08939d7eeeaeb4",
         "type": "tabs",
         "children": [
@@ -167,9 +148,12 @@
   },
   "active": "b1cd05251931f994",
   "lastOpenFiles": [
-    "Gradius on lesson (WRITE-UP) RU.md",
-    "Gradius on lesson (WRITE-UP) EN.md",
     "Assets/12.jpg",
+    "Assets/12.jpg",
+    "Gradius on lesson (WRITE-UP) EN.md",
+    "Gradius on lesson (WRITE-UP) RU.md",
+    "Assets/4.png",
+    "Assets/Pasted image 20241011231610.png",
     "Assets/11.png",
     "Assets/9.png",
     "Assets/10.png",
@@ -177,9 +161,6 @@
     "Assets/8.png",
     "Assets/7.png",
     "Assets/6.jpg",
-    "Assets/5.jpg",
-    "Assets/Screenshot_2024_09_26_12_38_02_466_com_kopohgames_scheduler_androidApp 1.jpg",
-    "Assets/4.png",
     "Assets/2.png.sb-1c9191b7-7p3pm8",
     "().md",
     "Pasted image 20240418001819.png.md",

@@ -22,11 +22,12 @@ Go to ==LoginViewModel== to study the login mechanism, here we find the function
 ![Assets/3.png](Assets/3.png)
 We see an appeal to the ==LoginRepository== file.
 Further clicking on the method ==userLogin(login, password)== we get a link to this method
+![[Pasted image 20241011231610.png]]
 ![Assets/3.png](Assets/3.png)
-Going to the method already inside ==LoginRepository==, we see the familiar ==LoginResponse== going down a little further, we see a conditional expression that literally means that if(login == ‘ZEROCTF’ && password == ‘Reverse is useless!’)
+Going to the method already inside ==LoginRepository==, we see the familiar ==LoginResponse== going down a little further, we see a conditional expression that literally means that if(login == ‘SUPERECLIPSECTF’ && password == ‘I love games!’)
 ![Assets/4.png](Assets/4.png)
 
-The login data for login is ZEROCTF and password is Reverse is useless!
+The login data for login is SUPERECLIPSECTF and password is I love games!
 
 Then we log into the application, we see that nothing is there, and nothing really happens.
 ![Assets/5.jpg|300](Assets/5.jpg)

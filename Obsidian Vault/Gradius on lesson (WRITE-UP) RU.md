@@ -23,10 +23,10 @@
 Видим обращение к файлу ==LoginRepository==
 Дальше кликая по методу ==userLogin(login, password)== получаем ссылку на этот метод
 ![Assets/3.png](Assets/3.png)
-Перейдя в метод уже внутри ==LoginRepository==, мы видим уже знакомый ==LoginResponse== спустившись немного далее, мы наблюдаем условное выражение которое буквально значит что if(login == "ZEROCTF" && password == "Reverse is useless!")
+Перейдя в метод уже внутри ==LoginRepository==, мы видим уже знакомый ==LoginResponse== спустившись немного далее, мы наблюдаем условное выражение которое буквально значит что if(login == "SUPERECLIPSECTF" && password == "I love games!")
 ![Assets/4.png](Assets/4.png)
 
-Данные для входа login это ZEROCTF и password это Reverse is useless!
+Данные для входа login это SUPERECLIPSECTF и password это I love games!
 
 Далее входим в приложение, видим что ничего нет, и ничего толком не происходит
 ![Assets/5.jpg|300](Assets/5.jpg)
