@@ -48,7 +48,7 @@ And in the end you'll see this field
 ![Assets/12.jpg|300](Assets/12.jpg)
 And the flag is this 
 ```
-kpkCTF{$ch3dule_w@s_t3ribb1e}
+EclipseCTF{$at0sh1_N4k4m0t0_1s_@l1v3}
 ```
 
 ## Solution 2 (IDA)

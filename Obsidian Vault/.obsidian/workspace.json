@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradius on lesson (WRITE-UP) RU.md",
+                "file": "Gradius on lesson (WRITE-UP) EN.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradius on lesson (WRITE-UP) RU.md",
+                "file": "Gradius on lesson (WRITE-UP) EN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gradius on lesson (WRITE-UP) RU.md",
+                "file": "Gradius on lesson (WRITE-UP) EN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gradius on lesson (WRITE-UP) RU.md"
+                "file": "Gradius on lesson (WRITE-UP) EN.md"
               }
             }
           }
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3845ebdbb7a7042",
+  "active": "b1cd05251931f994",
   "lastOpenFiles": [
-    "Gradius on lesson (WRITE-UP) EN.md",
     "Gradius on lesson (WRITE-UP) RU.md",
+    "Gradius on lesson (WRITE-UP) EN.md",
     "Assets/12.jpg",
     "Assets/11.png",
     "Assets/9.png",
